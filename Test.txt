@@ -1,3 +1,5 @@
 First step
 How Conflict occurs
 Same Line changes are made by other users and if we try to pull the files it will give conflict error not recomended
+So currently we are adding repo code only
+
