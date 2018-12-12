@@ -10,3 +10,4 @@ A today chnaginging something
 trying for push conflicts
 using Merge tools
 A today chnaginging something
+How Conflict occurs
