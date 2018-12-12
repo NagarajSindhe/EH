@@ -7,3 +7,6 @@ Checking in Dev Log
 trying for push conflicts
 using Merge tools
 A today chnaginging something
+trying for push conflicts
+using Merge tools
+A today chnaginging something
