@@ -6,4 +6,3 @@ adding branch and this is in other branch code
 Checking in Dev Log
 trying for push conflicts
 using Merge tools
-Hello
