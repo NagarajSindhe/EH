@@ -1,0 +1,23 @@
+ CREATE TABLE  `hr.website` (
+`id` int(11) NOT NULL AUTO_INCREMENT,
+`title` text,
+`description` text,
+`url` text,
+PRIMARY KEY (`id`)
+);
+ 
+ show variables like 'max_connections';
+SET GLOBAL max_connections = 5000;
+SHOW PROCESSLIST;
+show status like '%onn%';
+show status like 'Threads_connected';
+ select * From website;
+ 
+ insert into website values (1,'Samsung','Samsung 8', 'https://samsung.com');
+ insert into website values (2,'Iphone','Iphone 8', 'https://Iphone.com');
+ insert into website values (3,'Sony','Sony 5', 'https://Sony.com');
+ insert into website values (4,'Nokia','Nokia 5', 'https://Nokia.com');
+ insert into website values (5,'MI','MI 6', 'https://MI.com');
+ insert into website values (6,'VIVO','Vivo 8', 'https://Vivo.com');
+ insert into website values (7,'Motorola','Motorola G5', 'https://Motorola.com');
+ insert into website values (8,'Lenovo','Lenovo 8', 'https://Lenovo.com');
